@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(0, 153, 255);
+  max-width: 50%;
+  margin: auto;
+  border: 1px solid black;
+  color: rgb(0, 255, 128);
+}
+
+label {
+  display: block;
+  margin: 1rem;
+}
+
+button {
+  margin: 1rem;
+  color: black;
+  border-radius: 8px;
+  padding: 0.5rem;
+}
